@@ -16,6 +16,7 @@ All implementations could be found in `notebooks` directory with code and markdo
   * [Data transformations](#data-transformation-for-human-readable-format-1)
   * [Metrics](#metrics-1)
 * [Conclusion](#conclusions)
+* [Credits (for grading)](#credits)
 
 
 # Main idea
@@ -172,4 +173,10 @@ Best achieved metrics:
 3. `Mention recall`: 0.24% 
 4. `Mention precision`: 0.23% 
 5. `Macro F1`: 0.24%
+
+
+# Credits
+* Work done by Polina Zelenskaya (p.zelenskaya@innopolis.university)
+* CodaLab nickname: cutefluffyfox
+* Github Repository: https://github.com/cutefluffyfox/nested-named-entities/
 
